@@ -1,0 +1,4 @@
+Codigo: 1 Nombres: Willian Alexander Borja Zarate Salario: 1540.0 Lenguajes:  java visual basic c
+Codigo: 2 Nombres: Alex Gabriel Basantes Robalino Salario: 1250.0 Lenguajes:  java
+Codigo: 3 Nombres: Erick Sebastian Montero Gaona Salario: 1540.0 Lenguajes:  java python c
+Codigo: 4 Nombres: Gabriela Salome Andrade Vinueza Salario: 1234.0 Lenguajes:  c python java

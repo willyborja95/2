@@ -1,0 +1,11 @@
+Maquila No.1
+Lider:
+Codigo: 1 Nombres: Willian Borja Salario: 1200.0
+Programadores:
+Codigo: 2 Nombres: Pamela Gaona Salario: 550.0 Lenguajes:  Python Php
+
+Lider:
+Codigo: 3 Nombres: Alex Mera Salario: 1200.0
+Programadores:
+Codigo: 4 Nombres: Emilia Vera Salario: 550.0 Lenguajes:  Python Java
+
